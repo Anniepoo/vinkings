@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+# Unity
+unity/Vinkings3D/Library/Artifacts/*
+unity/Vinkings3D/Library/ShaderCache/*
+unity/Vinkings3D/Library/StateCache/*
+unity/Vinkings3D/Logs/*.*
+/**/*-lock
+
+
