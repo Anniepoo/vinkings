@@ -38,5 +38,7 @@ unity/Vinkings3D/Library/ShaderCache/*
 unity/Vinkings3D/Library/StateCache/*
 unity/Vinkings3D/Logs/*.*
 /**/*-lock
+unity/Vinkings3D/Temp/
+unity/Vinkings3D/Library/EditorInstance.json
 
 
